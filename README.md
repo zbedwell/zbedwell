@@ -44,11 +44,13 @@ A social-media style platform centered around music events.
 - Designed backend APIs and data models  
 - Collaborated in a team environment using Git branching
 
-### Apex Era Business Ama;ytic Dashboard and Ticketing System
-A lead-generation and analytics platform for trade workers.  
-**Tech:** Node.js, APIs, Database Design  
-- Backend development and data handling  
-- Focus on real-world business use cases
+### 🔹 Apex Era — Business Analytics Dashboard & Ticketing System  
+A data-driven platform designed to help trade workers manage leads, analyze business performance, and track customer interactions.
+**Tech:** Node.js, REST APIs, Database Design  
+- Developed backend services for lead management, ticketing, and analytics workflows  
+- Designed database schemas to support customer data, service tickets, and performance metrics  
+- Built and integrated RESTful APIs for scalable data access and system communication  
+- Focused on real-world business requirements, data integrity, and maintainable system design  
 
 ### Legal Lens - HenHacks 24 Hour Coding Competition 2025
 A web application designed to help users better understand legal documents by breaking down complex language into clear, accessible insights.
@@ -76,7 +78,6 @@ A text-based adventure game set inside a computer system, where the player navig
 - Implemented structured navigation, interaction commands, and state management  
 - Incorporated resource constraints (memory, inventory limits) to mirror real system behavior  
 - Emphasized clean architecture and extensibility over graphics  
-
 
 ## Goals
 
