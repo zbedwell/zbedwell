@@ -1,4 +1,4 @@
-👋 Hey, I'm Zack Bedwell
+👋 Hey, I'm Zack
 
 I'm a Junior Computer Science student at King's College with hands-on experience building full-stack applications, backend services, and data-driven systems. I enjoy turning ideas into working software, learning how systems operate at scale, and continuously improving my engineering fundamentals.
 
