@@ -4,7 +4,7 @@ I'm a Junior Computer Science student at King's College with hands-on experience
 
 ---
 
-Tech Stack
+Tech Stack:
 
 **Languages**
 - Java
@@ -29,13 +29,13 @@ Tech Stack
 
 ---
 
-What I'm Working On
+What I'm Working On:
 
 - Doomscroll Prevention Mobile App
 
 ---
 
-Featured Projects
+Featured Projects:
 
 Purple App - Backend Authentication and Functionality
 A social-media style platform centered around music events.  
@@ -79,7 +79,7 @@ A text-based adventure game set inside a computer system, where the player navig
 - Incorporated resource constraints (memory, inventory limits) to mirror real system behavior  
 - Emphasized clean architecture and extensibility over graphics  
 
-Goals
+Goals:
 
 - Secure a **Software Engineering Internship (Summer 2026)**
 - Create a sizable project and leverage it into launch
