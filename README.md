@@ -32,6 +32,7 @@ Tech Stack:
 What I'm Working On:
 
 - Doomscroll Prevention Mobile App
+- Updating Pokemon BattleDex
 
 ---
 
