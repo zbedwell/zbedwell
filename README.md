@@ -38,6 +38,15 @@ What I'm Working On:
 
 Featured Projects:
 
+TennisAI - AI Tennis Coaching MVP
+A practical AI platform that analyzes a single uploaded tennis point and returns shot-by-shot tactical coaching insights.
+**Tech:** Next.js, Tailwind CSS, FastAPI, SQLModel, SQLite, OpenCV, Python
+- Built async backend workflows for video upload, job queuing, processing, and status polling
+- Designed modular vision pipeline (decode -> court -> players -> ball -> hits -> labeling) for structured analysis output
+- Implemented API endpoints for health checks, analysis creation, result retrieval, and annotated video delivery
+- Added deterministic mock fallback output when vision stages fail to ensure reliable user experience
+- Developed frontend flow for upload, processing state, analysis timeline, summary cards, and tactical takeaways
+
 Purple App - Backend Authentication and Functionality
 A social-media style platform centered around music events.  
 **Tech:** Node.js, Firebase Auth, Firestore, Cloud Functions  
