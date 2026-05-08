@@ -1,6 +1,6 @@
 👋 Hey, I'm Zack
 
-I'm a Junior Computer Science student at King's College with hands-on experience building full-stack applications, backend services, and data-driven systems. I enjoy turning ideas into working software, learning how systems operate at scale, and continuously improving my engineering fundamentals.
+I'm a Junior Computer Science student at King's College with hands-on experience building full-stack applications, backend services, data-driven systems, and command-line tools. I enjoy turning ideas into working software, learning how systems operate at scale, and continuously improving my engineering fundamentals.
 
 ---
 
@@ -11,6 +11,7 @@ Tech Stack:
 - Python
 - JavaScript
 - SQL
+- Rust
 
 **Frameworks & Tools**
 - Node.js
@@ -18,6 +19,9 @@ Tech Stack:
 - PostgreSQL
 - Git & GitHub
 - Linux / Bash
+- Cargo
+- Serde
+- CSV Parsing
 
 **Concepts**
 - Data Structures & Algorithms
@@ -26,6 +30,10 @@ Tech Stack:
 - Database Design
 - Artificial Intelligence and Machine Learning
 - Authentication & Security Basics
+- File I/O
+- CLI Development
+- Error Handling
+- Data Modeling
 
 ---
 
@@ -33,6 +41,7 @@ What I'm Working On:
 
 - Doomscroll Prevention Mobile App
 - Updating Pokemon BattleDex
+- Rust Card Inventory Manager
 
 ---
 
@@ -61,6 +70,16 @@ A data-driven platform designed to help trade workers manage leads, analyze busi
 - Designed database schemas to support customer data, service tickets, and performance metrics  
 - Built and integrated RESTful APIs for scalable data access and system communication  
 - Focused on real-world business requirements, data integrity, and maintainable system design  
+
+Card Inventory Manager - Rust CLI Inventory and Profit Tool
+A command-line application designed to help trading card collectors, vendors, and card shops organize inventory data and evaluate profit margins from purchase and market prices.
+**Tech:** Rust, Cargo, Serde, CSV Parsing, File I/O, CLI Development
+- Built a Rust-based CLI tool that imports structured trading card collection data from CSV files
+- Modeled card data using Rust structs and vectors to store names, sets, card numbers, rarity, condition, quantity, purchase price, and market price
+- Implemented profit calculations to identify total value, profit per card, and cards currently being held at a loss
+- Formatted large inventories into readable terminal tables for cleaner review and decision-making
+- Used Rust's type safety and error handling to process inventory data reliably and reduce runtime issues
+- Connected the project to a real collectibles use case by solving the problem of tracking inventory value across apps and spreadsheets
 
 Legal Lens - University of Deleware HenHacks 24 Hour Coding Competition 2025
 A web application designed to help users better understand legal documents by breaking down complex language into clear, accessible insights.
