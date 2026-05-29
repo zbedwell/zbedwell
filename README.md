@@ -47,14 +47,30 @@ I'm a Senior Computer Science and Math student at King's College with hands-on e
 
 ## What I'm Working On
 
-- TaskForge — Go-Based Asynchronous Job Processing System
 - Doomscroll Prevention Mobile App
-- Updating Pokémon BattleDex
-- Improving my backend, system design, and software engineering fundamentals
+- Updating Pokémon BattleDex Website
+- Card Inventory Tracker Website
+- Yokai Medallium Website
 
 ---
 
 ## Featured Projects
+
+### Yokai Medallium — Fan-Made Yo-kai Watch Collection Tracker
+
+A full-stack web app for tracking Yo-kai collections across Yo-kai Watch 1, 2, and 3 — with 1,400+ yokai entries, artwork, stats, locations, and tribe data. **Built end-to-end with Claude Code as an AI pair programmer.**
+
+**Tech:** Next.js, TypeScript, MediaWiki API, Node.js, Sharp
+
+- Designed and built the full medallium UI including tribe/element/rank filtering, search, and per-yokai detail modals with collection progress tracking stored in localStorage
+- Engineered a data pipeline to fetch, clean, and store 1,400+ yokai entries from the Yo-kai Watch fandom wiki using the MediaWiki API in batches
+- Automated image downloading for all yokai artwork, handling redirects, stub pages, and alternate file names across hundreds of entries
+- Resolved name inconsistencies at scale — stripping version-exclusive suffixes (S/T/Sk), expanding medallium abbreviations, and patching incorrect entries via scripted fix passes
+- Batch-fetched location data for all 752 YW3 entries using the MediaWiki sections API, with manual fallback research for wiki stub pages
+- Added King and Wandroid tribe support with custom icons, tribe colors, and glow effects
+- Collaborated with an AI coding assistant throughout the entire project — from architecture decisions to scripted data pipelines — demonstrating the ability to direct and validate AI-generated work at production quality
+
+---
 
 ### TaskForge — Go-Based Asynchronous Job Processing System
 
@@ -156,7 +172,7 @@ A database-driven web app that helps players plan better Pokémon battles by exp
 
 ### Bit by Bit — Object-Oriented Java Game
 
-A text-based adventure game set inside a computer system, where the player navigates digital components as “Bit” in search of their counterpart “Byte.”
+A text-based adventure game set inside a computer system, where the player navigates digital components as "Bit" in search of their counterpart "Byte."
 
 **Tech:** Java, Object-Oriented Programming, Data Structures
 
