@@ -72,21 +72,6 @@ A full-stack web app for tracking Yo-kai collections across Yo-kai Watch 1, 2, a
 
 ---
 
-### TaskForge — Go-Based Asynchronous Job Processing System
-
-A backend infrastructure project designed to demonstrate how asynchronous job systems work by separating API requests from background job execution.
-
-**Tech:** Go, REST APIs, Docker Compose, PostgreSQL, Redis, Background Workers
-
-- Built a Go REST API that creates and tracks background jobs through statuses such as queued, running, completed, and failed
-- Designed a clean project structure with separate API and worker processes to mirror production-style backend services
-- Implemented asynchronous job processing using Go routines to simulate background execution
-- Added job lifecycle tracking so clients can create jobs, list jobs, and check individual job status by ID
-- Set up Docker Compose services for PostgreSQL and Redis to support future persistent storage and queue-based communication
-- Practiced backend infrastructure concepts including service communication, job orchestration, status updates, and failure handling
-
----
-
 ### TennisAI — AI Tennis Coaching MVP
 
 A practical AI platform that analyzes a single uploaded tennis point and returns shot-by-shot tactical coaching insights.
@@ -186,9 +171,7 @@ A text-based adventure game set inside a computer system, where the player navig
 
 ## Goals
 
-- Secure a **Software Engineering Internship for Summer 2026**
-- Build stronger backend, cloud, and system design fundamentals
-- Create sizable projects that solve real problems and demonstrate engineering growth
+- Secure a **Software Engineering New Grad/Internship for Summer 2027**
 - Improve proficiency in data structures, algorithms, and technical problem solving
 
 ---
